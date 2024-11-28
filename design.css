@@ -192,6 +192,7 @@ li:hover i{
 @media(max-width:1400px){
     body{
         background: linear-gradient(220deg,rgb(231, 46, 157),rgb(2, 248, 248));
+        height: 100vh;
     }
 
     .codinglab{
